@@ -1,4 +1,4 @@
-# JOBZAPP
+# JOBZ
 
 <h1>Trabalho de conclusão de curso FATEC AMERICANA 2021 Desenvolvido por </h1>
 
